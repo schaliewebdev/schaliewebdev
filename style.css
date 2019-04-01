@@ -1,0 +1,46 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.laptop {
+    background-image: url(header.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.row {
+    color: white;
+}
+
+.col-md-12 {
+    text-align: center;
+}
+
+.streep {
+    height: 3px;
+    width: 70px;
+    background-color: #d9534f;
+    margin:0 auto;
+}
+
+.btn-danger {
+    border-radius: 20px;
+}
+
+.first {
+    margin-top: 360px;
+}
+
+.second {
+    margin-top: 190px;
+}
+
+.third {
+    margin-top: 40px;
+}
